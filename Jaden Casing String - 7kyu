@@ -1,0 +1,9 @@
+String.prototype.toJadenCase = function() {
+    return this.split(" ").map((word) => {
+        return word[0].toUpperCase() + word.slice(1);
+    }).join(" ");
+};
+
+1. split으로 문자열을 나눈다.
+2. map을 통해 문자열의 0번째 인자를 toUpperCase로 대문자 변환해준다.
+3. slice 메소드 사용 후 join으로 다시 문자열 붙히기
