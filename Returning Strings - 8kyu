@@ -1,0 +1,9 @@
+function greet(name){
+  //your code here
+  return `Hello, ${name} how are you doing today?`
+}
+
+템플릿 리터럴을 사용하면 자연스럽게 문장으로 출력이 가능하다.
+
+(greet("Ryan"), "Hello, Ryan how are you doing today?"
+(greet("Shingles"), "Hello, Shingles how are you doing today?");
