@@ -1,0 +1,6 @@
+function DNAtoRNA(dna) {
+  // create a function which returns an RNA sequence from the given DNA sequence
+  return dna.replace(/[T str]/g, 'U')
+}
+
+정규표현식을 사용해서 dna 내 모든 'T'를 'U'로 바꾸면 된다.
