@@ -1,0 +1,16 @@
+function correct(string){
+	// your code here
+  const missingNum = {
+  5: 'S',
+  0: 'O',
+  1: 'I'
+    }
+  const fix = function(str) {
+    return str in missingNum ? missingNum[str] : str;
+  }
+  return string.split('').map(fix).join('')
+}
+
+우선 문제가 되어 바꿔줄 수들을 새로운 객체 형식으로 묶어주었다.
+새로운 함수를 만들어서 str안에 바꿔줄 문자가 있으면 ? 바꿔주는 (삼항연산자 사용, ? 앞 조건이 true이면 ? 뒤 첫번째 조건이 실행되고 아니면 그 뒤의 식이 실행된다.)
+그 후 문자열을 split('')로 나누고 작성해둔 함수를 map으로 문자열 전체에 적용, 그 후 나누어진 문자열을 다시 join('')으로 결합해주면 
