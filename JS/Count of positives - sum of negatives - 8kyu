@@ -1,0 +1,18 @@
+function countPositivesSumNegatives(input) {
+  // your code here
+  // input 안에서 양수의 갯수
+  // input 안에서 음수의 합
+    let positiveNums = 0;
+    let negativeNums = 0;
+    if (input === null || input.length === 0) {
+      return [];
+    } else {
+      input.forEach((num) => num > 0 ? positiveNums++ : negativeNums += num);
+    }
+    return [positiveNums , negativeNums];
+}
+
+1. 두 개의 변수 postiveNums, negativeNums를 0으로 설정
+2. 특수 조건에 입력이 null이거나 비어있으면 빈 배열을 반환하도록 요청 했으므로 조건 식 작성
+3. forEach 메소드 사용 => 각 숫자를 반복할 때 숫자가 0 보다 크면 positiveNums++ 실행, 숫자가 음수이면 negativeNums += num 실행
+4. return은 두 개의 변수를 각각 배열로 
