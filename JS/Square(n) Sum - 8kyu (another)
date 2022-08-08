@@ -1,0 +1,9 @@
+function squareSum(numbers){
+  const multiply = number => number * number
+  const reducer = (acc, cur) => acc + cur
+  return Array.from(numbers, multiply).reduce(reducer, 0)
+}
+
+1. 제곱을 구하는 함수를 선언
+2. 누적값을 구해줄 reducer함수 선언
+3. Array.from을 사용해서 배열 초기화 후 인자로 숫자, '제곱 함수'를 담아주고 리듀서 사용, 초깃값은 0
