@@ -1,0 +1,11 @@
+function areYouPlayingBanjo(name) {
+  // Implement me
+  // 1. name[0] === "R" 일 경우
+  // 2. name[0] === 'r' 일 경우
+  //   return name[0] === 'R' ? `${name} plays banjo` : `${name} does not play banjo`
+  return name + (name[0].toUpperCase() === 'R' ? ' plays' : ' does not play') + ' banjo';
+}
+
+1. 삼항 연산자를 사용하면 간단하게 해결 할 수 있다.
+2. name의 첫번째 요소를 toUpperCase, toLowerCase를 사용해서 'R'이나 'r'로 만들어서 풀면되는데
+3. Upper인지 Lower인지에 따라서 경우가 나뉜다.
