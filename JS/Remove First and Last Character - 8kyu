@@ -1,0 +1,7 @@
+function removeChar(str){
+ //You got this!
+  return str.slice(1, str.length - 1)
+};
+
+1. slice메소드 사용
+2. 1번째 인덱스는 미포함=> 0번 인덱스 삭제, ~ 문자열의 마지막까지(삭제 포함)
