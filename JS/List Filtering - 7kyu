@@ -1,0 +1,7 @@
+function filter_list(l) {
+  // Return a new array with the strings filtered out
+  return l.filter((el) => typeof el === "number");
+}
+
+1. filter메소드 사용
+2. 필터의 조건은 el의 타입이 "숫자"인 것들만 출력
