@@ -1,0 +1,7 @@
+const stringToNumber = function(str){
+  // put your code here
+  return Number(str)
+}
+
+
+Number을 사용하면 간단하게 해결된다!
