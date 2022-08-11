@@ -1,0 +1,7 @@
+function disemvowel(str) {
+  return str.match(/[^aeiou]/gi).join('')
+}
+
+1. 정규 표현식을 사용해서 모음을 전부 제거해줍니다.
+2. match메소드는 정규표현식에 맞는 문자열을 배열 객체로 반환합니다.
+3. return해야할 str이 배열 객체로 이루어졌기 때문에 join으로 묶어줍니다.
