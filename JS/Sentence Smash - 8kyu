@@ -1,0 +1,5 @@
+function smash (words) {
+  return words.join(' ')
+};
+
+따옴표로 구분되어있는 문자열을 합치면 된다. join메소드 사용!
