@@ -1,0 +1,9 @@
+function solution(str, ending){
+  // TODO: complete
+  // str[1]
+  //   console.log(str[1])
+  return str.endsWith(ending)
+  }
+  
+  endsWith메소드를 사용하면 지정된 문자열로 끝나는지 여부를 Boolean타입으로 알 수 있다. 
+  대소문자를 구분한다.
