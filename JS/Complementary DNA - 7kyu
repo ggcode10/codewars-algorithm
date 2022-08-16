@@ -1,0 +1,18 @@
+function DNAStrand(dna){
+  //your code here
+  let sequence = {
+    "A": "T",
+    "T": "A",
+    "G": "C",
+    "C": "G"
+  }
+  return dna.replace(/A|T|G|C/g, function(matched) {
+    return sequence[matched];
+  });
+}
+
+우선 각 대치되어야 할 항목을 키와 값으로 구분하여 변수 sequence에 넣어준다.
+정규 표현식을 사용해 /A|T|G|C/g와 일치하는 문자만 찾는다. 그런 다음 replace 메소드를 사용한다.
+
+키 값에 접근하기 위해 객체 대괄호 표기법을 사용한다.
+=> 
