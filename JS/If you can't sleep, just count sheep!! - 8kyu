@@ -1,0 +1,14 @@
+var countSheep = function (num){
+  //your code here
+  let result = ''
+  for(let i = 1; i <= num; i++) {
+    result += i.toString() + ' sheep...'
+  }
+  return result
+}
+
+1. 결과를 담아줄 문자열을 만든다.
+2. 앞에 있는 변수 num만 바뀌므로 반복문으로 num을 돌게하자
+3. 빈 문자열 result에 반복문을 돈 i를 toString()을 사용하여 문자열로 만들고
+4. result += (중략) + ' sheep...'
+5. return result
