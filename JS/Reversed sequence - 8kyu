@@ -1,0 +1,13 @@
+const reverseSeq = n => {
+  let result = [];
+  for(let i = n; i > 0; i--){
+    result.push(i)
+  }
+  return result
+};
+
+1. 우선 결과를 담아줄 빈 배열을 생성합니다.
+2. 반복문을 돌면서 초기값을 n으로 설정해줍니다.
+3. 반복문을 돌 i가 0보다 크다면 i를 하나씩 줄여줍니다. (i--)
+4. 빈 배열에 반복문을 돈 i를 push합니다.
+5. 배열을 리턴합니다.
