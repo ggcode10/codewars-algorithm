@@ -1,0 +1,8 @@
+function solution(a, b){
+return a.length < b.length ? a + b + a : b + a + b
+}
+
+1. 삼항연산자를 통해 간단히 해결할 수 있다.
+2. a의 길이와 b의 길이를 비교해서
+3. b가 더 크면 a + b + a를 리턴
+4. a 가 더 크면  b + a + b를 리턴
