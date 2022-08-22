@@ -1,0 +1,4 @@
+const check = (a,x) => a.includes(x);
+
+includes메소드를 통해 x값이 배열 a에 있는지 확인
+true, false Boolean 값으로 리턴한다.
