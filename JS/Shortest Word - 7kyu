@@ -1,0 +1,17 @@
+function findShort(s){
+  let wordArr = s.split(' ');
+  let min = wordArr[0].length;
+  for(let word of wordArr){
+    if(word.length < min){
+      min = word.length;
+    }
+  }
+  return min
+}
+
+1. s로 받은 단어의 나열을 split(' ')으로 잘라준다.
+2. 공백 기준으로 잘라진 단어들의 배열이 만들어진다.
+3. 그 배열의 첫번째 숫자를 초기값으로둔다.
+4. 배열에 있는 단어의 길이를 초기값과 비교해서 초기값보다 작은 경우에 min을 그 값으로 교환한다.
+5. 반복이 다 끝나면 가장 작은 수가 min으로 들어간다.
+6. return min
