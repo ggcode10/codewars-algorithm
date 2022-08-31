@@ -1,0 +1,22 @@
+function isPangram(string){
+  //...
+  const alphabet = 'abcdefghijklmnopqrstuvwxyz';
+  const str = string.toLowerCase();
+  
+  for (let i = 0; i < alphabet.length-1; i += 1) {
+    if (str.indexOf(alphabet[i]) === -1) {
+      return false;
+    }
+  }
+  
+  return true;
+}
+
+a-z 까지 모든 string이 한번이라도 들어가면 팬그램이라고 한다.
+팬그램을 판별하는 함수를 만드는것이 목표
+
+1. 알파벳 변수를 선언한다. (a to z)
+2. 반복문을 실행하는데, 변수 알파벳의 길이만큼 돈다.
+3. indexOf 메소드로 만약 -1이면 false 반환, indexOf의 동작 원리를 알아야함.
+4. -1이 하나라도 있으면 false 반환
+5. 그게 아니라면 true 
