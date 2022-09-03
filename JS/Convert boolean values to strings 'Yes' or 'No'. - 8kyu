@@ -1,0 +1,8 @@
+function boolToWord( bool ){
+  //...
+  return bool === true ? "Yes" : "No"
+}
+
+1. 삼항연산자를 사용하면 쉽게 해결할 수 있다.
+2. bool이 true라면 ? => "Yes"리턴
+3. 그게 아니라면 "No" 리턴
