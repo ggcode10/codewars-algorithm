@@ -1,0 +1,7 @@
+function solution(str){
+  return str.split('').reverse().join('')
+}
+
+1. split으로 배열을 ''기준으로 나누어준다.
+2. reverse로 나누어진 문자 배열을 역순으로 만들고
+3. ''을 기준으로 join해준다.
