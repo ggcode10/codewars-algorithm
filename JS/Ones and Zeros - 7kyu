@@ -1,0 +1,14 @@
+const binaryArrayToNumber = arr => {
+  // your code
+  return parseInt(arr.join(''), 2)
+};
+
+1. join('')을 사용해서 이진 형식을 문자열로 가져온다.
+2. arr.join('')
+3. 처음에는 toString(2)로 이진 형식을 만들었으나 parseInt라는 메소드를 사용했다.
+4. parseInt(arr.join(''), 2);
+
+parseInt는 문자열 인자를 파싱하여 특정 진수(수의 진법 체계에서 기준이 되는 값)의 정수를 반환한다.
+첫번째 인자로는 문자열을, 두번째 인자로는 변환할 radix(진수)를 받는다.
+ex => paresInt(str, 2)
+str을 인자로 받아 이진수로 변환
