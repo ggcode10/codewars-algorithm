@@ -4,5 +4,5 @@ function makeUpperCase(str) {
 }
 
 
-//리
+//리팩토링
 const makeUpperCase = str => str.toUpperCase()
