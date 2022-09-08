@@ -1,0 +1,6 @@
+function addBinary(a,b) {
+    let result = a + b
+    return result.toString(2)
+}
+
+// 2진수로 변환하기 위한 toString(2)사용
