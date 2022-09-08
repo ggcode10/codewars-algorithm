@@ -1,0 +1,10 @@
+var summation = function (num) {
+  // Code here
+    let result = 0;
+    for (let i = 1; i <= num; i++) {
+        result += i
+    }
+    return result;
+}
+
+//for loop으로 간단하게 
