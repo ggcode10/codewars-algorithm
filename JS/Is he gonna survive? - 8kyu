@@ -1,0 +1,8 @@
+function hero(bullets, dragons){
+  if(bullets >= dragons * 2) {
+    return true;
+  }
+  return false;
+
+}
+// bullets이 dragnos의 두배가 되어야 함
