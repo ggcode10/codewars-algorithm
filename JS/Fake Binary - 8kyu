@@ -1,0 +1,5 @@
+function fakeBin(x){
+  return x.replace(/[1234]/g, '0').replace(/[56789]/g, '1');
+}
+
+1. replace와 정규표현식을 사용해서 간단하게 해결 가능하다.
