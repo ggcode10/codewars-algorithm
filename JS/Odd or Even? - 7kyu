@@ -1,0 +1,14 @@
+function oddOrEven(array) {
+   //enter code here
+    if (array.length === 0) {
+        return 'even'
+    } else {
+        return array.reduce((acc, cur) => acc + cur) % 2 === 0 ? "even" : "odd"
+    }
+}
+
+1. 입력받은 배열의 합을 구해서 그 결과값이 홀수인지 짝수인지 판별하면된다.
+2. 배열의 합은 누적값으로 볼 수 있으니 reduce메소드 사용
+3. 그 누적값은 % 2 했을때 나머지가 0이면 짝수, 아니면 홀수
+4. 이 문제는 엣지케이스가 있다. 빈 배열일 경우.
+5. 빈 배열을 알아내는 방법은 배열의 길이가 0인지 체크하면 된다. 0이라면 짝수로 리턴하라고 했으니 조건대로 코드 
