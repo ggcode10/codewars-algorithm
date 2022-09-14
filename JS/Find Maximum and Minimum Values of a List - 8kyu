@@ -1,0 +1,11 @@
+var min = function (list) {
+    let min = Math.min(...list)
+    return min;
+}
+
+var max = function (list) {
+    let max = Math.max(...list)
+    return max
+}
+
+console.log(min([-52, 56, 30, 29, -54, 0, -110])) // -110
