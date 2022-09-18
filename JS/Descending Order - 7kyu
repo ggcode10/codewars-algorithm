@@ -1,0 +1,9 @@
+function descendingOrder(n){
+  //...
+  n = n.toString()
+  return parseInt(n.split('').sort((a, b) => b - a).join(''))
+}
+
+1. n을 문자열로 먼저 바꿔준다.
+2. split, sort 정렬 사용
+3. parseInt로 다시 숫자로 
