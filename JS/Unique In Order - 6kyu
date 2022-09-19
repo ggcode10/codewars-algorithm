@@ -1,0 +1,15 @@
+  const uniqueInOrder = iterable => {
+    let strArr = Array.isArray(iterable) ? iterable : iterable.split('');
+    let unique = strArr.filter((letter, i) => { 
+        return strArr[i] !== strArr[i + 1]; 
+    });
+    // console.log(unique)
+    return unique
+  }
+
+  console.log((uniqueInOrder('AAAABBBCCDAABBB'))) // (6) ['A', 'B', 'C', 'D', 'A', 'B']
+  
+  1. 변수 strArr 생성, 문자열을 배열로 만드는 작업 진행
+  2. 배열인지 확인하고 아니라면 split('')으로 배열로 나누어준다.
+  3. 변수 unique는 연속적인 중복배열 요소가 없는 고유한 배열로 만들어준다. => filter사용
+  4. 동일한 값을 가진 요소를 걸러내고 그 중 하나만 유지
