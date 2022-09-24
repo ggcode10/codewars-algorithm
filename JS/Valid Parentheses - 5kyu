@@ -1,0 +1,20 @@
+function validParentheses(input) {
+    // 스택 생성
+    const stack = [];
+    for (const char of input) {
+        if (char === '[' || char === '(' || char === '{') {
+            stack.push(char)
+        } else {
+            const lastChar = stack.pop();
+            if (char === ']' && lastChar !== '[' ||
+                char === '}' && lastChar !== '{' ||
+                char === ')' && lastChar !== '('
+            ) {
+                return false;
+            }
+        }
+    }
+    return stack.length === 0;
+}
+
+console.log(validParentheses("[(((())))]"))
