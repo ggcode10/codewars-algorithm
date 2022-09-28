@@ -1,0 +1,6 @@
+// Write a function "greet" that returns "hello world!"
+const greet = () => {
+  return 'hello world!'
+}
+
+1. 주어진 함수명을 사용해서 원하는 함수를 만드는 기본적인 문제
