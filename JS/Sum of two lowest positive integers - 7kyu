@@ -1,0 +1,6 @@
+const sumTwoSmallestNumbers = numbers => {
+    let smallInt1 = Math.min(...numbers) // 5
+    numbers.splice(numbers.indexOf(smallInt1,), 1); // [5]
+    let smallInt2 = Math.min(...numbers);
+    return smallInt1 + smallInt2
+}
