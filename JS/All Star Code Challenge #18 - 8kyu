@@ -1,0 +1,8 @@
+function strCount(str, letter){  
+  //code here
+    let arr = str.split("");
+  //console.log(arr)
+  let finalArr = arr.filter((char) => letter === char);
+  //console.log(finalArr);
+  return finalArr.length;
+}
