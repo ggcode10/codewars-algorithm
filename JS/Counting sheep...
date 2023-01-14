@@ -1,0 +1,17 @@
+function countSheeps(arrayOfSheep) {
+  // TODO May the force be with you
+  return arrayOfSheep.filter(item => item === true).length
+}
+
+두가지 솔루션 사용가능
+1. 반복문으로 해결
+funtion countSheeps(arrayOfSheep) {
+  let count = 0;
+  for(let i = 0; i < arrayOfSheep.length; i++) {
+   if (arrayOfSheep[i]) count++ // count += 1
+  }
+  return count;
+}
+
+
+2. filter 사용
