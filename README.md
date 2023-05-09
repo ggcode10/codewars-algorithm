@@ -1,4 +1,3 @@
-# codewars-algorithm
+# Swift PS
 
-velog에 올리던 codewars-JavaScript Algorithm 문제풀이는 github로 옮기기로 하였습니다.
-velog를 더 기술블로그로 활용하기 위함입니다.
+[바킹독님](https://github.com/encrypted-def/basic-algo-lecture/tree/master)의 강의 및 공부 커리큘럼을 기반으로 공부합니다.
