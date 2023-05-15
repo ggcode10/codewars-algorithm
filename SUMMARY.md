@@ -76,6 +76,7 @@
   * [보물 - 1026](undefined/boj-5/1026.md)
 * [BOJ - 스택](undefined/boj-6/README.md)
   * [스택 - 10828](undefined/boj-6/10828.md)
+  * [제로 - 10773](undefined/boj-6/10773.md)
 
 ## LeetCode
 
