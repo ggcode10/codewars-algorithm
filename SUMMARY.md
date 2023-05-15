@@ -72,6 +72,7 @@
   * [동전 0 - 백준 11047](undefined/boj-5/0-11047.md)
   * [세탁소 사장 동혁 - 2720](undefined/boj-5/2720.md)
   * [캠핑 - 4796](undefined/boj-5/4796.md)
+  * [보물 - 1026](undefined/boj-5/1026.md)
 
 ## LeetCode
 
