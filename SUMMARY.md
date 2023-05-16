@@ -78,6 +78,7 @@
   * [스택 - 10828](undefined/boj-6/10828.md)
   * [제로 - 10773](undefined/boj-6/10773.md)
   * [괄호 - 9012](undefined/boj-6/9012.md)
+  * [프로그래머스 - 올바른 괄호](undefined/boj-6/undefined.md)
 
 ## LeetCode
 
