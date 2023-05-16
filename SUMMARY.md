@@ -89,3 +89,7 @@
 
 * [문제풀이](undefined-1/undefined/README.md)
   * [순서쌍의 개수](undefined-1/undefined/undefined.md)
+
+***
+
+* [숫자의 개수 - 2577](2577.md)
