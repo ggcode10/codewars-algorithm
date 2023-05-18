@@ -1,6 +1,6 @@
 ---
-description: 스택을 사용하고 구현해봅시다.
+description: 탐욕법을 알아봅시다.
 ---
 
-# BOJ - 스택
+# BOJ - 그리디 알고리즘
 
