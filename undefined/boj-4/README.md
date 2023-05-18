@@ -1,8 +1,6 @@
 ---
-description: 구현 실력 키우기
+description: 브루트 포스 알고리즘에 대해 알아봅시다.
 ---
 
-# BOJ - 구현
-
-
+# BOJ - 브루트 포스
 
