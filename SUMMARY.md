@@ -99,3 +99,7 @@
 
 * [문제풀이](undefined-1/undefined/README.md)
   * [순서쌍의 개수](undefined-1/undefined/undefined.md)
+
+***
+
+* [소수 찾기 - 1978](1978.md)
