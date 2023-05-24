@@ -67,6 +67,7 @@
   * [삼각형 외우기 - 10101](undefined/boj-4/10101.md)
   * [약수 - 1037](undefined/boj-4/1037.md)
   * [OX퀴즈 - 8958](undefined/boj-4/ox-8958.md)
+  * [짝수를 찾아라 - 3058](undefined/boj-4/3058.md)
 * [BOJ - 브루트 포스](undefined/boj-4/README.md)
   * [블랙잭 - 2798](undefined/boj-4/2798.md)
   * [분해합 - 2231](undefined/boj-4/2231.md)
