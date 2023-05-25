@@ -105,6 +105,7 @@
 
 * [문제풀이](undefined-1/undefined/README.md)
   * [순서쌍의 개수](undefined-1/undefined/undefined.md)
+  * [카운트 다운](undefined-1/undefined/undefined-1.md)
 
 ***
 
