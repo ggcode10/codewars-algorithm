@@ -71,8 +71,8 @@
   * [OX퀴즈 - 8958](undefined/boj-4/ox-8958.md)
   * [짝수를 찾아라 - 3058](undefined/boj-4/3058.md)
   * [파일 옮기기 - 11943](undefined/boj-4/11943.md)
-  * [노브 돌리기 - 23756](undefined/boj-4/23756.md)
-  * [애너그램 - 1919](undefined/boj-4/1919.md)
+  * [노브 돌리기 - 23756](23756.md)
+  * [애너그램 - 1919](1919.md)
 * [BOJ - 브루트 포스](undefined/boj-4/README.md)
   * [블랙잭 - 2798](undefined/boj-4/2798.md)
   * [분해합 - 2231](undefined/boj-4/2231.md)
@@ -108,6 +108,7 @@
 * [문제풀이](undefined-1/undefined/README.md)
   * [순서쌍의 개수](undefined-1/undefined/undefined.md)
   * [카운트 다운](undefined-1/undefined/undefined-1.md)
+  * [첫 번째로 나오는 음수](undefined-1/undefined/undefined-2.md)
 
 ***
 
