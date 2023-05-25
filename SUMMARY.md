@@ -74,6 +74,7 @@
   * [분해합 - 2231](undefined/boj-4/2231.md)
   * [초6 수학 - 2702](undefined/boj-4/6-2702.md)
   * [0의 개수 - 11170](undefined/boj-5/0-11170.md)
+  * [완전 제곱수 - 1977](undefined/boj-5/1977.md)
 * [BOJ - 심화 1](undefined/boj-1-2/README.md)
   * [킹, 퀸, 룩, 비숍, 나이트, 폰 - 3003](undefined/boj-1-2/3003.md)
   * [펠린드롬인지 확인하기 - 10988](undefined/boj-1-2/10988.md)
