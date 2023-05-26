@@ -73,6 +73,7 @@
   * [파일 옮기기 - 11943](undefined/boj-4/11943.md)
   * [노브 돌리기 - 23756](23756.md)
   * [애너그램 - 1919](1919.md)
+  * [10부제 - 10797](undefined/boj-4/10-10797.md)
 * [BOJ - 브루트 포스](undefined/boj-4/README.md)
   * [블랙잭 - 2798](undefined/boj-4/2798.md)
   * [분해합 - 2231](undefined/boj-4/2231.md)
