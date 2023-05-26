@@ -83,6 +83,7 @@
 * [BOJ - 심화 1](undefined/boj-1-2/README.md)
   * [킹, 퀸, 룩, 비숍, 나이트, 폰 - 3003](undefined/boj-1-2/3003.md)
   * [펠린드롬인지 확인하기 - 10988](undefined/boj-1-2/10988.md)
+  * [평균은 넘겠지 - 4344](undefined/boj-1-2/4344.md)
 * [BOJ - 그리디 알고리즘](undefined/boj-5/README.md)
   * [거스름돈 - 5585](undefined/boj-5/5585.md)
   * [동전 0 - 백준 11047](undefined/boj-5/0-11047.md)
