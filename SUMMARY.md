@@ -96,6 +96,7 @@
   * [컵홀더 - 2810](undefined/boj-5/2810.md)
   * [설탕 배달 - 2839](undefined/boj-6/2839.md)
   * [ATM - 11399](undefined/boj-6/atm-11399.md)
+  * [우유 축제 - 14720](undefined/boj-6/14720.md)
 * [BOJ - 스택](undefined/boj-6/README.md)
   * [스택 - 10828](undefined/boj-6/10828.md)
   * [제로 - 10773](undefined/boj-6/10773.md)
