@@ -77,6 +77,7 @@
   * [10부제 - 10797](undefined/boj-4/10-10797.md)
   * [주사위 게임 - 2476](undefined/boj-4/2476.md)
   * [이항 계수1 - 11050](undefined/boj-4/1-11050.md)
+  * [직각삼각형 - 4153](undefined/boj-4/4153.md)
 * [BOJ - 브루트 포스](undefined/boj-4/README.md)
   * [블랙잭 - 2798](undefined/boj-4/2798.md)
   * [분해합 - 2231](undefined/boj-4/2231.md)
