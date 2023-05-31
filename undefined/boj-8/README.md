@@ -1,6 +1,6 @@
 ---
-description: 스택을 사용하고 구현해봅시다.
+description: 이분탐색 알고리즘
 ---
 
-# BOJ - 스택
+# BOJ - 이진탐색
 
