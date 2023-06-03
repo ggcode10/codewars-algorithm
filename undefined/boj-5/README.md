@@ -1,6 +1,8 @@
 ---
-description: 탐욕법을 알아봅시다.
+description: 구현 실력 키우기
 ---
 
-# BOJ - 그리디 알고리즘
+# BOJ - 구현
+
+
 
