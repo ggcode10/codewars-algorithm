@@ -143,3 +143,4 @@
   * [마지막 두 원소](undefined-1/undefined/undefined-3.md)
   * [글자 이어 붙여 문자열 만들기](undefined-1/undefined/undefined-4.md)
   * [올바른 괄호 - Level 2](undefined-1/undefined/level-2.md)
+  * [n 번째 원소까지](undefined-1/undefined/n.md)
