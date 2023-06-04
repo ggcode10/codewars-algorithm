@@ -8,7 +8,7 @@ swift에서 배열의 n번째 원소까지 출력하려면 arr\[..\<n] 이런식
 
 새 정수형 배열이 필요합니다.
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2023-06-04 오후 12.47.13.png" alt=""><figcaption><p>Array&#x3C;Int>.SubSequence</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2023-06-04 오후 12.47.13.png" alt=""><figcaption><p>Array&#x3C;Int>.SubSequence</p></figcaption></figure>
 
 ## 코드&#x20;
 
