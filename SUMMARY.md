@@ -145,3 +145,5 @@
   * [올바른 괄호 - Level 2](undefined-1/undefined/level-2.md)
   * [n 번째 원소까지](undefined-1/undefined/n.md)
   * [카운트 업](undefined-1/undefined/undefined-5.md)
+  * [문자열 앞의 n글자](undefined-1/undefined/n-1.md)
+  * [공배수](undefined-1/undefined/undefined-6.md)
