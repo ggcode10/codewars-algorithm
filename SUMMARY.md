@@ -147,3 +147,4 @@
   * [카운트 업](undefined-1/undefined/undefined-5.md)
   * [문자열 앞의 n글자](undefined-1/undefined/n-1.md)
   * [공배수](undefined-1/undefined/undefined-6.md)
+  * [소문자로 바꾸기](undefined-1/undefined/undefined-7.md)
