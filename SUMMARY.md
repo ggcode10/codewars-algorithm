@@ -75,6 +75,7 @@
   * [달팽이는 올라가고 싶다 - 2869](undefined/boj-4/2869.md)
   * [최대공약수 - 1850](undefined/boj-4/1850.md)
   * [약수 - 1037](undefined/boj-4/1037.md)
+  * [최소공배수 - 13241](undefined/boj-4/13241.md)
 * [BOJ - 구현](undefined/boj-5/README.md)
   * [파티가 끝나고 난 뒤 - 2845](undefined/boj-5/2845.md)
   * [삼각형 외우기 - 10101](undefined/boj-5/10101.md)
