@@ -155,3 +155,4 @@
     * [조건에 맞게 수열 변환하기 1](undefined-1/undefined/undefined/1.md)
     * [문자열 정수의 합](undefined-1/undefined/undefined/undefined-9.md)
     * [n번째 원소부터](undefined-1/undefined/undefined/n-3.md)
+    * [수 조작하기 1](undefined-1/undefined/undefined/1-1.md)
