@@ -152,3 +152,4 @@
     * [소문자로 바꾸기](undefined-1/undefined/undefined/undefined-7.md)
     * [첫 번째로 나오는 음수](undefined-1/undefined/undefined/undefined-8.md)
     * [문자열의 뒤의 n글자](undefined-1/undefined/undefined/n-2.md)
+    * [조건에 맞게 수열 변환하기 1](undefined-1/undefined/undefined/1.md)
