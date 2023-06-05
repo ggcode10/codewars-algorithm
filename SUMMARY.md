@@ -156,7 +156,5 @@
     * [문자열 정수의 합](undefined-1/undefined/undefined/undefined-9.md)
     * [n번째 원소부터](undefined-1/undefined/undefined/n-3.md)
     * [수 조작하기 1](undefined-1/undefined/undefined/1-1.md)
-
-***
-
-* [이어 붙인 수](undefined-2.md)
+    * [이어 붙인 수](undefined-1/undefined/undefined/undefined-10.md)
+    * [n개 간격의 원소들](undefined-1/undefined/undefined/n-4.md)
