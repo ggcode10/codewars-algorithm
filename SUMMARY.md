@@ -161,3 +161,4 @@
     * [A 강조하기](undefined-1/undefined/undefined/a.md)
     * [문자열 바꿔서 찾기](undefined-1/undefined/undefined/undefined-11.md)
     * [배열의 길이에 따라 다른 연산하기](undefined-1/undefined/undefined/undefined-12.md)
+    * [뒤에서 5등까지](undefined-1/undefined/undefined/5-1.md)
