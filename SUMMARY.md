@@ -159,3 +159,4 @@
     * [이어 붙인 수](undefined-1/undefined/undefined/undefined-10.md)
     * [n개 간격의 원소들](undefined-1/undefined/undefined/n-4.md)
     * [A 강조하기](undefined-1/undefined/undefined/a.md)
+    * [문자열 바꿔서 찾기](undefined-1/undefined/undefined/undefined-11.md)
