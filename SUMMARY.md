@@ -167,3 +167,4 @@
     * [할 일 목록](undefined-1/undefined/undefined/undefined-14.md)
     * [순서 바꾸기](undefined-1/undefined/undefined/undefined-15.md)
     * [접미사 배열](undefined-1/undefined/undefined/undefined-16.md)
+    * [배열의 원소 삭제하기](undefined-1/undefined/undefined/undefined-17.md)
