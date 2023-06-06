@@ -88,6 +88,7 @@
   * [10부제 - 10797](undefined/boj-5/10-10797.md)
   * [주사위 게임 - 2476](undefined/boj-5/2476.md)
   * [수 정렬하기 3 - 10989](undefined/boj-5/3-10989.md)
+  * [요세푸스 문제 - 1158](undefined/boj-5/1158.md)
 * [BOJ - 브루트 포스](undefined/boj-6/README.md)
   * [블랙잭 - 2798](undefined/boj-6/2798.md)
   * [분해합 - 2231](undefined/boj-6/2231.md)
