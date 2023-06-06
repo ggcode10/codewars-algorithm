@@ -165,3 +165,4 @@
     * [배열 비교하기](undefined-1/undefined/undefined/undefined-13.md)
     * [할 일 목록](undefined-1/undefined/undefined/undefined-14.md)
     * [순서 바꾸기](undefined-1/undefined/undefined/undefined-15.md)
+    * [접미사 배열](undefined-1/undefined/undefined/undefined-16.md)
