@@ -173,3 +173,4 @@
     * [배열의 원소 삭제하기](undefined-1/undefined/undefined/undefined-17.md)
     * [5명씩](undefined-1/undefined/undefined/5-2.md)
     * [간단한 식 계산하기](undefined-1/undefined/undefined/undefined-18.md)
+    * [두 수의 연산값 비교하기](undefined-1/undefined/undefined/undefined-19.md)
