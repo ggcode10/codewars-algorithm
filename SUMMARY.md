@@ -146,6 +146,7 @@
     * [x만큼 간격이 있는 n개의 숫자](undefined-1/undefined/level-1/x-n.md)
     * [자연수 뒤집어 배열로 만들기](undefined-1/undefined/level-1/undefined-1.md)
     * [하샤드 수](undefined-1/undefined/level-1/undefined-2.md)
+    * [콜라츠 추측](undefined-1/undefined/level-1/undefined-3.md)
   * [코딩 기초 트레이닝](undefined-1/undefined/undefined/README.md)
     * [순서쌍의 개수](undefined-1/undefined/undefined.md)
     * [카운트 다운](undefined-1/undefined/undefined-1.md)
