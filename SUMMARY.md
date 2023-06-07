@@ -148,6 +148,7 @@
     * [하샤드 수](undefined-1/undefined/level-1/undefined-2.md)
     * [콜라츠 추측](undefined-1/undefined/level-1/undefined-3.md)
     * [나누어 떨어지는 숫자 배열](undefined-1/undefined/level-1/undefined-4.md)
+    * [핸드폰 번호 가리기](undefined-1/undefined/level-1/undefined-5.md)
   * [코딩 기초 트레이닝](undefined-1/undefined/undefined/README.md)
     * [순서쌍의 개수](undefined-1/undefined/undefined.md)
     * [카운트 다운](undefined-1/undefined/undefined-1.md)
