@@ -143,6 +143,7 @@
   * [Level 1](undefined-1/undefined/level-1/README.md)
     * [나머지가 1이 되는 수](undefined-1/undefined/level-1/1.md)
     * [약수의 합](undefined-1/undefined/level-1/undefined.md)
+    * [x만큼 간격이 있는 n개의 숫자](undefined-1/undefined/level-1/x-n.md)
   * [코딩 기초 트레이닝](undefined-1/undefined/undefined/README.md)
     * [순서쌍의 개수](undefined-1/undefined/undefined.md)
     * [카운트 다운](undefined-1/undefined/undefined-1.md)
