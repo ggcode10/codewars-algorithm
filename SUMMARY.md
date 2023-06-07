@@ -176,3 +176,4 @@
     * [두 수의 연산값 비교하기](undefined-1/undefined/undefined/undefined-19.md)
     * [콜라츠 수열 만들기](undefined-1/undefined/undefined/undefined-20.md)
     * [특별한 이차원 배열 2](undefined-1/undefined/undefined/2.md)
+    * [특별한 이차원 배열 1](undefined-1/undefined/undefined/1-2.md)
