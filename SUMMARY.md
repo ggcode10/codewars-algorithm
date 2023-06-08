@@ -78,6 +78,7 @@
   * [약수 - 1037](undefined/boj-4/1037.md)
   * [최소공배수 - 13241](undefined/boj-4/13241.md)
   * [배수와 약수 - 5086](undefined/boj-4/5086.md)
+  * [약수들의 합 - 9506](undefined/boj-4/9506.md)
 * [BOJ - 구현](undefined/boj-5/README.md)
   * [파티가 끝나고 난 뒤 - 2845](undefined/boj-5/2845.md)
   * [삼각형 외우기 - 10101](undefined/boj-5/10101.md)
