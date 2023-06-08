@@ -1,37 +1,33 @@
----
-description: 백준 9012 괄호 문제와 동일합니다.
----
+# 두 수의 합
 
-# 프로그래머스 - 올바른 괄호
+## 풀이
+
+for문으로 접근하면, 시간제한이 나오는 문제입니다. 투포인터로 해결하면 될 것 같습니다.
 
 ```swift
-// Some code
 import Foundation
 
-// count 변수 생성,  (일때 +1  ) 일때 -1
-// count == 0이면 올바른 괄호 근데 () () ((일 경우도 생각
-// count가 -인 경우는 바로 종료
+let N = Int(readLine()!)!
+let arr = readLine()!.split(separator: " ").map{Int(String($0))!}.sorted()
+let x = Int(readLine()!)!
 
+var start = 0
+var last = N - 1
 var count = 0
 
-func solution(_ s:String) -> Bool
-{
-    for target in s {
-        if target == "(" {
-            count += 1
-        } else if target == ")" {
-            count -= 1
-            
-            if count < 0 {
-                break
-            }
-        }
-    }
+while start < last {
+    let target = arr[start] + arr[last]
     
-    if count == 0 {
-        return true
+    if target == x {
+        count += 1
+        start += 1
+        last -= 1
+    } else if target > x {
+        last -= 1
     } else {
-        return false
+        start += 1
     }
 }
+print(count)
+
 ```
