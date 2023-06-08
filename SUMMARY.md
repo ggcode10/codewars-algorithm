@@ -80,6 +80,7 @@
   * [배수와 약수 - 5086](undefined/boj-4/5086.md)
   * [약수들의 합 - 9506](undefined/boj-4/9506.md)
   * [손익분기점 - 1712](undefined/boj-4/1712.md)
+  * [방학 숙제 - 5532](undefined/boj-4/5532.md)
 * [BOJ - 구현](undefined/boj-5/README.md)
   * [파티가 끝나고 난 뒤 - 2845](undefined/boj-5/2845.md)
   * [삼각형 외우기 - 10101](undefined/boj-5/10101.md)
