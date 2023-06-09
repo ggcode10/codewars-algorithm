@@ -102,6 +102,7 @@
   * [완전 제곱수 - 1977](undefined/boj-6/1977.md)
   * [3의 배수 - 16561](undefined/boj-6/3-16561.md)
   * [두 수의 합 - 3273](undefined/boj-6/3273.md)
+  * [셀프 넘버 - 4673번](undefined/boj-6/4673.md)
 * [BOJ - 심화 1](undefined/boj-1-2/README.md)
   * [킹, 퀸, 룩, 비숍, 나이트, 폰 - 3003](undefined/boj-1-2/3003.md)
   * [펠린드롬인지 확인하기 - 10988](undefined/boj-1-2/10988.md)
