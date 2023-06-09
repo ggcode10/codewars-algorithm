@@ -141,6 +141,8 @@
   * [피보나치 수 2 - 2748](undefined/boj-12/2-2748.md)
   * [체스판 조각 - 3004](undefined/boj-12/3004.md)
   * [알고리즘 수업 - 24416](undefined/boj-12/24416.md)
+* [BOJ - 2차원 배열](undefined/boj-2-1/README.md)
+  * [최댓값 - 2566](undefined/boj-2-1/2566.md)
 
 ## LeetCode
 
