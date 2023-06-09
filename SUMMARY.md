@@ -66,6 +66,7 @@
   * [단어 뒤집기 - 9093](undefined/boj-3/9093.md)
   * [소트인사이드 - 1427](undefined/boj-3/1427.md)
   * [접미사 배열 - 11656](undefined/boj-3/11656.md)
+  * [뜨거운 붕어빵 - 11945](undefined/boj-3/11945.md)
 * [BOJ - 수학](undefined/boj-4/README.md)
   * [빠른 A + B](undefined/boj-4/a-+-b.md)
   * [직각삼각형 - 4153](undefined/boj-4/4153.md)
