@@ -145,6 +145,8 @@
   * [최댓값 - 2566](undefined/boj-2-1/2566.md)
   * [세로 읽기 - 10798](undefined/boj-2-1/10798.md)
   * [색종이 - 2563](undefined/boj-2-1/2563.md)
+* [BOJ - 일반 수학 1](undefined/boj-1-3/README.md)
+  * [진법 변환 2 - 11005](undefined/boj-1-3/2-11005.md)
 
 ## LeetCode
 
