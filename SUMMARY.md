@@ -147,6 +147,7 @@
   * [색종이 - 2563](undefined/boj-2-1/2563.md)
 * [BOJ - 일반 수학 1](undefined/boj-1-3/README.md)
   * [진법 변환 2 - 11005](undefined/boj-1-3/2-11005.md)
+  * [중앙 이동 알고리즘 - 2903](undefined/boj-1-3/2903.md)
 
 ## LeetCode
 
