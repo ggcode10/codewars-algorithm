@@ -144,6 +144,7 @@
 * [BOJ - 2차원 배열](undefined/boj-2-1/README.md)
   * [최댓값 - 2566](undefined/boj-2-1/2566.md)
   * [세로 읽기 - 10798](undefined/boj-2-1/10798.md)
+  * [색종이 - 2563](undefined/boj-2-1/2563.md)
 
 ## LeetCode
 
