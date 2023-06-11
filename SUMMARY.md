@@ -120,6 +120,7 @@
   * [ATM - 11399](undefined/boj-7/atm-11399.md)
   * [우유 축제 - 14720](undefined/boj-7/14720.md)
   * [수들의 합- 1789](undefined/boj-7/1789.md)
+  * [크게 만들기 - 2812](undefined/boj-7/2812.md)
 * [BOJ - 스택](undefined/boj-8/README.md)
   * [스택 - 10828](undefined/boj-8/10828.md)
   * [제로 - 10773](undefined/boj-8/10773.md)
