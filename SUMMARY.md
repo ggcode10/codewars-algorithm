@@ -127,6 +127,7 @@
   * [프로그래머스 - 올바른 괄호](undefined/boj-8/undefined.md)
   * [단어순서 뒤집기 - 12605](undefined/boj-8/12605.md)
   * [막대기 - 17608](undefined/boj-8/17608.md)
+  * [쇠막대기 - 10799](undefined/boj-8/10799.md)
 * [BOJ - 큐](undefined/boj-9/README.md)
   * [큐 - 10845](undefined/boj-9/10845.md)
   * [큐2 - 2164](undefined/boj-9/2-2164.md)
