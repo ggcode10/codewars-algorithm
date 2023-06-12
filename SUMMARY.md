@@ -152,6 +152,8 @@
 * [BOJ - 일반 수학 1](undefined/boj-1-3/README.md)
   * [진법 변환 2 - 11005](undefined/boj-1-3/2-11005.md)
   * [중앙 이동 알고리즘 - 2903](undefined/boj-1-3/2903.md)
+* [BOJ - 기하: 직사각형과 삼각형](undefined/boj-13/README.md)
+  * [대지 - 9063](undefined/boj-13/9063.md)
 
 ## LeetCode
 
