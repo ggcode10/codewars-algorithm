@@ -156,6 +156,8 @@
   * [대지 - 9063](undefined/boj-13/9063.md)
   * [삼각형과 세 변 - 5073](undefined/boj-13/5073.md)
   * [세 막대 - 14215](undefined/boj-13/14215.md)
+* [BOJ - 시간복잡도](undefined/boj-14/README.md)
+  * [알고리즘 수업 - 알고리즘의 수행 시간 1 - 24262](undefined/boj-14/1-24262.md)
 
 ## LeetCode
 
