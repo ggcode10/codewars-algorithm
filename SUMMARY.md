@@ -155,6 +155,7 @@
 * [BOJ - 기하: 직사각형과 삼각형](undefined/boj-13/README.md)
   * [대지 - 9063](undefined/boj-13/9063.md)
   * [삼각형과 세 변 - 5073](undefined/boj-13/5073.md)
+  * [세 막대 - 14215](undefined/boj-13/14215.md)
 
 ## LeetCode
 
