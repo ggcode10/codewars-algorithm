@@ -159,6 +159,7 @@
 * [BOJ - 시간복잡도](undefined/boj-14/README.md)
   * [알고리즘 수업 - 알고리즘의 수행 시간 1 - 24262](undefined/boj-14/1-24262.md)
   * [알고리즘 수업 - 알고리즘의 수행 시간 2 - 24263번](undefined/boj-14/2-24263.md)
+  * [알고리즘 수업 - 알고리즘의 수행 시간 3 - 24264](undefined/boj-14/3-24264.md)
 
 ## LeetCode
 
