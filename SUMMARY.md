@@ -168,6 +168,7 @@
   * [알고리즘 수업 - 점근적 표기1 - 24313](undefined/boj-14/1-24313.md)
 * [BOJ - 정렬](undefined/boj-15/README.md)
   * [커트라인 - 25305](undefined/boj-15/25305.md)
+  * [좌표 정렬하기 2 - 11651](undefined/boj-15/2-11651.md)
 
 ## LeetCode
 
