@@ -171,10 +171,6 @@
   * [좌표 정렬하기 2 - 11651](undefined/boj-15/2-11651.md)
   * [좌표 압축 - 18870](undefined/boj-15/18870.md)
 
-## LeetCode
-
-* [Two Sum](leetcode/two-sum.md)
-
 ## 프로그래머스
 
 * [문제풀이](undefined-1/undefined/README.md)
