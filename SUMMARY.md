@@ -169,6 +169,7 @@
 * [BOJ - 정렬](undefined/boj-15/README.md)
   * [커트라인 - 25305](undefined/boj-15/25305.md)
   * [좌표 정렬하기 2 - 11651](undefined/boj-15/2-11651.md)
+  * [좌표 압축 - 18870](undefined/boj-15/18870.md)
 
 ## LeetCode
 
