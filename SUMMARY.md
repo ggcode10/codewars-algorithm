@@ -109,6 +109,7 @@
   * [셀프 넘버 - 4673번](undefined/boj-6/4673.md)
   * [수학은 비대면강의입니다 - 19532](undefined/boj-6/19532.md)
   * [영화감독 숌 - 1436](undefined/boj-6/1436.md)
+  * [체스판 다시 칠하기 - 1018](undefined/boj-6/1018.md)
 * [BOJ - 심화 1](undefined/boj-1-2/README.md)
   * [킹, 퀸, 룩, 비숍, 나이트, 폰 - 3003](undefined/boj-1-2/3003.md)
   * [펠린드롬인지 확인하기 - 10988](undefined/boj-1-2/10988.md)
