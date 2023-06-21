@@ -175,6 +175,7 @@
   * [소수 - 2581](undefined/boj-15/2581.md)
 * [BOJ - 집합과 맵](undefined/boj-16/README.md)
   * [숫자 카드 - 10815](undefined/boj-16/10815.md)
+  * [문자열 집합 - 14425](undefined/boj-16/14425.md)
 
 ## 프로그래머스
 
