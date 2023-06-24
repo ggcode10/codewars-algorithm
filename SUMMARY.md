@@ -177,6 +177,7 @@
 * [BOJ - 집합과 맵](undefined/boj-16/README.md)
   * [숫자 카드 - 10815](undefined/boj-16/10815.md)
   * [문자열 집합 - 14425](undefined/boj-16/14425.md)
+  * [대칭 차집합 - 1269](undefined/boj-16/1269.md)
 
 ## 프로그래머스
 
