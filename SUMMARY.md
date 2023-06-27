@@ -99,6 +99,7 @@
   * [수 정렬하기 3 - 10989](undefined/boj-5/3-10989.md)
   * [요세푸스 문제 - 1158](undefined/boj-5/1158.md)
   * [너의 평점은 - 25206](undefined/boj-5/25206.md)
+  * [덱 - 10866](undefined/boj-5/10866.md)
 * [BOJ - 브루트 포스](undefined/boj-6/README.md)
   * [블랙잭 - 2798](undefined/boj-6/2798.md)
   * [분해합 - 2231](undefined/boj-6/2231.md)
