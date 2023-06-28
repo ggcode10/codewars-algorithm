@@ -182,6 +182,7 @@
   * [숫자 카드 2 - 10816](undefined/boj-16/2-10816.md)
 * [BOJ - 약수, 배수와 소수 2단계](undefined/boj-2-2/README.md)
   * [가로수 - 2485](undefined/boj-2-2/2485.md)
+  * [창문 닫기 - 13909](undefined/boj-2-2/13909.md)
 
 ## 프로그래머스
 
