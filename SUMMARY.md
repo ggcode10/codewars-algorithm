@@ -185,6 +185,7 @@
   * [대칭 차집합 - 1269](undefined/boj-16/1269.md)
   * [숫자 카드 2 - 10816](undefined/boj-16/2-10816.md)
   * [나는야 포켓몬 마스터 이다솜 - 1620](undefined/boj-16/1620.md)
+  * [서로 다른 부분 문자열의 개수 - 11478](undefined/boj-16/11478.md)
 * [BOJ - 약수, 배수와 소수 2단계](undefined/boj-2-2/README.md)
   * [가로수 - 2485](undefined/boj-2-2/2485.md)
   * [창문 닫기 - 13909](undefined/boj-2-2/13909.md)
