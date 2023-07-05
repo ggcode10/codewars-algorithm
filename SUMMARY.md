@@ -140,6 +140,7 @@
   * [막대기 - 17608](undefined/boj-8/17608.md)
   * [쇠막대기 - 10799](undefined/boj-8/10799.md)
   * [오큰수 - 17298](undefined/boj-8/17298.md)
+  * [균형잡힌 세상 - 4949](undefined/boj-8/4949.md)
 * [BOJ - 큐](undefined/boj-9/README.md)
   * [큐 - 10845](undefined/boj-9/10845.md)
   * [큐2 - 2164](undefined/boj-9/2-2164.md)
