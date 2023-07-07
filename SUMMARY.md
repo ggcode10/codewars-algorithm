@@ -148,6 +148,7 @@
   * [요세푸스 문제 0 - 11866](undefined/boj-9/0-11866.md)
 * [BOJ - 이진탐색](undefined/boj-10/README.md)
   * [수 찾기 - 1920](undefined/boj-10/1920.md)
+  * [랜선 자르기 - 1654](undefined/boj-10/1654.md)
 * [BOJ - 재귀](undefined/boj-11/README.md)
   * [팩토리얼 2 - 27433](undefined/boj-11/2-27433.md)
   * [피보나치 수 5 - 10870](undefined/boj-11/5-10870.md)
