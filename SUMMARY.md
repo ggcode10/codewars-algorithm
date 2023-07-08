@@ -146,6 +146,7 @@
   * [큐 - 10845](undefined/boj-9/10845.md)
   * [큐2 - 2164](undefined/boj-9/2-2164.md)
   * [요세푸스 문제 0 - 11866](undefined/boj-9/0-11866.md)
+  * [프린터 큐 - 1966](undefined/boj-9/1966.md)
 * [BOJ - 이진탐색](undefined/boj-10/README.md)
   * [수 찾기 - 1920](undefined/boj-10/1920.md)
   * [랜선 자르기 - 1654](undefined/boj-10/1654.md)
