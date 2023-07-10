@@ -88,6 +88,7 @@
   * [소인수분해 - 11653](undefined/boj-4/11653.md)
   * [이상한 기호 - 15964](undefined/boj-4/15964.md)
   * [통계학 - 2108](undefined/boj-4/2108.md)
+  * [소수 구하기 - 1929](undefined/boj-4/1929.md)
 * [BOJ - 구현](undefined/boj-5/README.md)
   * [파티가 끝나고 난 뒤 - 2845](undefined/boj-5/2845.md)
   * [삼각형 외우기 - 10101](undefined/boj-5/10101.md)
