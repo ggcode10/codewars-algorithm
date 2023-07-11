@@ -117,6 +117,7 @@
   * [영화감독 숌 - 1436](undefined/boj-6/1436.md)
   * [체스판 다시 칠하기 - 1018](undefined/boj-6/1018.md)
   * [마인크래프트 - 18111](undefined/boj-6/18111.md)
+  * [덩치 - 7568](undefined/boj-6/7568.md)
 * [BOJ - 심화 1](undefined/boj-1-2/README.md)
   * [킹, 퀸, 룩, 비숍, 나이트, 폰 - 3003](undefined/boj-1-2/3003.md)
   * [펠린드롬인지 확인하기 - 10988](undefined/boj-1-2/10988.md)
