@@ -197,6 +197,7 @@
 * [BOJ - 약수, 배수와 소수 2단계](undefined/boj-2-2/README.md)
   * [가로수 - 2485](undefined/boj-2-2/2485.md)
   * [창문 닫기 - 13909](undefined/boj-2-2/13909.md)
+  * [분수 합 - 1735](undefined/boj-2-2/1735.md)
 
 ## 프로그래머스
 
