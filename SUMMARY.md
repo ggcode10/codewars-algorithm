@@ -200,6 +200,7 @@
   * [분수 합 - 1735](undefined/boj-2-2/1735.md)
 * [BOJ - DFS, BFS](undefined/boj-dfs-bfs/README.md)
   * [DFS와 BFS - 1260](undefined/boj-dfs-bfs/dfs-bfs-1260.md)
+  * [미로 탐색 - 2178](undefined/boj-dfs-bfs/2178.md)
 
 ## 프로그래머스
 
