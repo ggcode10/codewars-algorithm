@@ -163,6 +163,7 @@
   * [알고리즘 수업 - 24416](undefined/boj-12/24416.md)
   * [부녀회장이 될테야 - 2775](undefined/boj-12/2775.md)
   * [1로 만들기 - 1463](undefined/boj-12/1-1463.md)
+  * [피포나치 함수 - 1003](undefined/boj-12/1003.md)
 * [BOJ - 2차원 배열](undefined/boj-2-1/README.md)
   * [최댓값 - 2566](undefined/boj-2-1/2566.md)
   * [세로 읽기 - 10798](undefined/boj-2-1/10798.md)
