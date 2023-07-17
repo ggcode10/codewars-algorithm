@@ -202,6 +202,7 @@
 * [BOJ - DFS, BFS](undefined/boj-dfs-bfs/README.md)
   * [DFS와 BFS - 1260](undefined/boj-dfs-bfs/dfs-bfs-1260.md)
   * [미로 탐색 - 2178](undefined/boj-dfs-bfs/2178.md)
+  * [바이러스 - 2606](undefined/boj-dfs-bfs/2606.md)
 
 ## 프로그래머스
 
