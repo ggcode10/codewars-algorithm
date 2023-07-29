@@ -158,6 +158,7 @@
   * [팩토리얼 2 - 27433](undefined/boj-11/2-27433.md)
   * [피보나치 수 5 - 10870](undefined/boj-11/5-10870.md)
   * [재귀의 귀재 - 25501](undefined/boj-11/25501.md)
+  * [Z - 1074](undefined/boj-11/z-1074.md)
 * [BOJ - 다이나믹 프로그래밍](undefined/boj-12/README.md)
   * [피보나치 수 2 - 2748](undefined/boj-12/2-2748.md)
   * [체스판 조각 - 3004](undefined/boj-12/3004.md)
