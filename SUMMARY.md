@@ -179,6 +179,7 @@
   * [진법 변환 2 - 11005](undefined/boj-1-3/2-11005.md)
   * [중앙 이동 알고리즘 - 2903](undefined/boj-1-3/2903.md)
   * [구간 합 구하기 - 11659](undefined/boj-1-3/11659.md)
+  * [패션왕 신해빈 - 9375](undefined/boj-1-3/9375.md)
 * [BOJ - 기하: 직사각형과 삼각형](undefined/boj-13/README.md)
   * [대지 - 9063](undefined/boj-13/9063.md)
   * [삼각형과 세 변 - 5073](undefined/boj-13/5073.md)
