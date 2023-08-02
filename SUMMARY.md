@@ -171,6 +171,7 @@
   * [1,2,3 더하기 - 9095](undefined/boj-12/1-2-3-9095.md)
   * [2xn 타일링 - 11726](undefined/boj-12/2xn-11726.md)
   * [계단 오르기 - 2579](undefined/boj-12/2579.md)
+  * [파도반 수열 - 9461](undefined/boj-12/9461.md)
 * [BOJ - 2차원 배열](undefined/boj-2-1/README.md)
   * [최댓값 - 2566](undefined/boj-2-1/2566.md)
   * [세로 읽기 - 10798](undefined/boj-2-1/10798.md)
