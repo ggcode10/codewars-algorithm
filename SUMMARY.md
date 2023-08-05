@@ -220,6 +220,7 @@
   * [단지번호붙이기 - 2667](undefined/boj-dfs-bfs/2667.md)
   * [숨바꼭질 - 1697](undefined/boj-dfs-bfs/1697.md)
   * [유기농 배추 - 1012](undefined/boj-dfs-bfs/1012.md)
+  * [연결 요소의 개수 - 11724](undefined/boj-dfs-bfs/11724.md)
 * [BOJ - 비트마스킹](undefined/boj-17/README.md)
   * [집합 - 11723](undefined/boj-17/11723.md)
 
