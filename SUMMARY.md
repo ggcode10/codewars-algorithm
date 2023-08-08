@@ -139,6 +139,7 @@
   * [크게 만들기 - 2812](undefined/boj-7/2812.md)
   * [회의실 배정 - 1931](undefined/boj-7/1931.md)
   * [잃어버린 괄호 - 1541](undefined/boj-7/1541.md)
+  * [로프 - 2217](undefined/boj-7/2217.md)
 * [BOJ - 스택](undefined/boj-8/README.md)
   * [스택 - 10828](undefined/boj-8/10828.md)
   * [제로 - 10773](undefined/boj-8/10773.md)
