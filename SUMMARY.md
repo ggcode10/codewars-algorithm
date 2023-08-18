@@ -184,6 +184,7 @@
   * [계단 오르기 - 2579](undefined/boj-12/2579.md)
   * [파도반 수열 - 9461](undefined/boj-12/9461.md)
   * [다리놓기 - 1010](undefined/boj-12/1010.md)
+  * [퇴사 - 14501](undefined/boj-12/14501.md)
 * [BOJ - 2차원 배열](undefined/boj-2-1/README.md)
   * [최댓값 - 2566](undefined/boj-2-1/2566.md)
   * [세로 읽기 - 10798](undefined/boj-2-1/10798.md)
