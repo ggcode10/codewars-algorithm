@@ -213,6 +213,7 @@
   * [좌표 정렬하기 2 - 11651](undefined/boj-15/2-11651.md)
   * [좌표 압축 - 18870](undefined/boj-15/18870.md)
   * [소수 - 2581](undefined/boj-15/2581.md)
+  * [국영수 - 10825](undefined/boj-15/10825.md)
 * [BOJ - 집합과 맵](undefined/boj-16/README.md)
   * [숫자 카드 - 10815](undefined/boj-16/10815.md)
   * [문자열 집합 - 14425](undefined/boj-16/14425.md)
