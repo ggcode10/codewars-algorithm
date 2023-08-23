@@ -146,6 +146,7 @@
   * [로프 - 2217](undefined/boj-7/2217.md)
   * [펠린드롬 만들기 - 1213](undefined/boj-7/1213.md)
   * [뒤집기 - 1439](undefined/boj-7/1439.md)
+  * [30 - 10610](undefined/boj-7/30-10610.md)
 * [BOJ - 스택](undefined/boj-8/README.md)
   * [스택 - 10828](undefined/boj-8/10828.md)
   * [제로 - 10773](undefined/boj-8/10773.md)
