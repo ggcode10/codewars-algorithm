@@ -189,6 +189,7 @@
   * [퇴사 - 14501](undefined/boj-12/14501.md)
   * [돌 게임 - 9566](undefined/boj-12/9566.md)
   * [이친수 - 2193](undefined/boj-12/2193.md)
+  * [가장 긴 증가하는 부분수열 - 11053](undefined/boj-12/11053.md)
 * [BOJ - 2차원 배열](undefined/boj-2-1/README.md)
   * [최댓값 - 2566](undefined/boj-2-1/2566.md)
   * [세로 읽기 - 10798](undefined/boj-2-1/10798.md)
