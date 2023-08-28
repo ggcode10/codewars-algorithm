@@ -72,6 +72,7 @@
   * [찾기 - 1786](undefined/boj-3/1786.md)
   * [Hashing - 15829](undefined/boj-3/hashing-15829.md)
   * [베스트셀러 - 1302](undefined/boj-3/1302.md)
+  * [베스트셀러 - 1302](undefined/boj-3/1302-1.md)
 * [BOJ - 수학](undefined/boj-4/README.md)
   * [빠른 A + B](undefined/boj-4/a-+-b.md)
   * [직각삼각형 - 4153](undefined/boj-4/4153.md)
