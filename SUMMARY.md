@@ -112,6 +112,7 @@
   * [너의 평점은 - 25206](undefined/boj-5/25206.md)
   * [덱 - 10866](undefined/boj-5/10866.md)
   * [ACM 호텔 - 10250](undefined/boj-5/acm-10250.md)
+  * [스위치 켜고 끄기 - 1244](undefined/boj-5/1244.md)
 * [BOJ - 브루트 포스](undefined/boj-6/README.md)
   * [블랙잭 - 2798](undefined/boj-6/2798.md)
   * [분해합 - 2231](undefined/boj-6/2231.md)
