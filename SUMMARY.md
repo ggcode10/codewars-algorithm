@@ -97,6 +97,7 @@
   * [더하기 사이클 - 1110](undefined/boj-4/1110.md)
   * [GCD 합 - 9613](undefined/boj-4/gcd-9613.md)
   * [터렛 - 1002](undefined/boj-4/1002.md)
+  * [어린왕자 - 1004](undefined/boj-4/1004.md)
 * [BOJ - 구현](undefined/boj-5/README.md)
   * [파티가 끝나고 난 뒤 - 2845](undefined/boj-5/2845.md)
   * [삼각형 외우기 - 10101](undefined/boj-5/10101.md)
