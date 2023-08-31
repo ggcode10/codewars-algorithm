@@ -130,6 +130,7 @@
   * [덩치 - 7568](undefined/boj-6/7568.md)
   * [한수 - 1065](undefined/boj-6/1065.md)
   * [날짜 계산 - 1476](undefined/boj-6/1476.md)
+  * [토너먼트 - 1057](undefined/boj-6/1057.md)
 * [BOJ - 심화 1](undefined/boj-1-2/README.md)
   * [킹, 퀸, 룩, 비숍, 나이트, 폰 - 3003](undefined/boj-1-2/3003.md)
   * [펠린드롬인지 확인하기 - 10988](undefined/boj-1-2/10988.md)
