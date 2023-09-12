@@ -171,6 +171,7 @@
   * [프린터 큐 - 1966](undefined/boj-9/1966.md)
   * [최소 힙 - 1927](undefined/boj-9/1927.md)
   * [큐 2 - 18258](undefined/boj-9/2-18258.md)
+  * [카드 1 - 2161](undefined/boj-9/1-2161.md)
 * [BOJ - 이진탐색](undefined/boj-10/README.md)
   * [수 찾기 - 1920](undefined/boj-10/1920.md)
   * [랜선 자르기 - 1654](undefined/boj-10/1654.md)
