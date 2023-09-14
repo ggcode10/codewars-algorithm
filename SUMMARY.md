@@ -251,6 +251,8 @@
   * [쉬운 최단거리 - 14940](undefined-1/boj-dfs-bfs/14940.md)
 * [BOJ - 비트마스킹](undefined-1/boj-17/README.md)
   * [집합 - 11723](undefined-1/boj-17/11723.md)
+* [BOJ - 백트랙킹](undefined-1/boj-18/README.md)
+  * [N과 M (1) - 15649](undefined-1/boj-18/n-m-1-15649.md)
 
 ## 프로그래머스
 
